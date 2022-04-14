@@ -46,6 +46,8 @@
             text-align: center;
         }
     </style>
+
+    <link rel="icon" type="image/png" sizes="16x16" href="~/img/pokedexicon.png"/>
 </head>
 <body>
     
