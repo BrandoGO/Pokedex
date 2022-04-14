@@ -90,7 +90,7 @@
             <tr>
                 <td colspan="3">
                    <div class="auto-style3">
-                    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="DS_ConsultaGeneral" CssClass="auto-style4" AllowPaging="True" Width="1840px" CellPadding="4" ForeColor="#333333" PageSize="12">
+                    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="DS_ConsultaGeneral" CssClass="auto-style4" AllowPaging="True" Width="1840px" CellPadding="4" ForeColor="#333333" PageSize="18">
                         <AlternatingRowStyle BackColor="White" />
                         <Columns>
                             <asp:BoundField DataField="Numero" HeaderText="Numero" SortExpression="Numero" InsertVisible="False" ReadOnly="True" />
