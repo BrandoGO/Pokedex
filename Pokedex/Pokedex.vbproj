@@ -171,6 +171,12 @@
     <Content Include="img\028.png" />
     <Content Include="img\029.png" />
     <Content Include="img\030.png" />
+    <Content Include="img\031.png" />
+    <Content Include="img\032.png" />
+    <Content Include="img\033.png" />
+    <Content Include="img\034.png" />
+    <Content Include="img\035.png" />
+    <Content Include="img\036.png" />
     <Content Include="img\logo.png" />
     <Content Include="Pokedex.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
